@@ -1,0 +1,1 @@
+# LojaDeTintas.java
